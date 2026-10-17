@@ -1,43 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:0, Al Ayam-ir
-https://live.epress.ir/btv/a1/playlist.m3u8
-#EXTINF:0, Afagh-ir
-https://live.epress.ir/btv/a2/playlist.m3u8
-#EXTINF:0, Al Ahd-ir
-https://live.epress.ir/btv/a3/playlist.m3u8
-#EXTINF:0, Al Anwar2-ir
-https://live.epress.ir/btv/a4/playlist.m3u8
-#EXTINF:0, Inews-ir
-https://live.epress.ir/btv/a5/playlist.m3u8
-#EXTINF:0, Al Etejah-ir
-https://live.epress.ir/btv/a6/playlist.m3u8
-#EXTINF:0, Al Janob-ir
-https://live.epress.ir/btv/a7/playlist.m3u8
-#EXTINF:0, Al Amasireh-ir
-https://live.epress.ir/btv/a8/playlist.m3u8
-#EXTINF:0, Al Sahat-ir
-https://live.epress.ir/btv/a9/playlist.m3u8
-#EXTINF:0, Al Nabav-ir
-https://live.epress.ir/btv/a10/playlist.m3u8
-#EXTINF:0, Al Mayadeen-ir
-https://live.epress.ir/btv/a11/playlist.m3u8
-#EXTINF:0, Al Eshragh-ir
-https://live.epress.ir/btv/a12/playlist.m3u8
-#EXTINF:0, Tamadoon-ir
-https://live.epress.ir/btv/a13/playlist.m3u8
-#EXTINF:0, Al Qods-ir
-https://live.epress.ir/btv/a14/playlist.m3u8
-#EXTINF:0, ON4-ir
-https://live.epress.ir/btv/a15/playlist.m3u8
-#EXTINF:0, Inter-ir
-https://live.epress.ir/btv/a16/playlist.m3u8
-#EXTINF:0, Payam-ir
-https://live.epress.ir/btv/a17/playlist.m3u8
-#EXTINF:0, Al oula-ir
-https://live.epress.ir/btv/a18/playlist.m3u8
-
 #EXTINF:0, Afaq-iq
 https://63b03f7689049.streamlock.net/live/_definst_/1/playlist.m3u8
 #EXTINF:0, Al Ghadeer-iq
